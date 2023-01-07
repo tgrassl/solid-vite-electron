@@ -2,7 +2,7 @@
   "name": "solid-vite-electron",
   "version": "0.0.0",
   "main": "dist-electron/main.js",
-  "description": "Solid.js + Vite + Electron template",
+  "description": "SolidJS + Vite + Electron template",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tgrassl/solid-vite-electron.git"
