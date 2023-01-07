@@ -8,7 +8,7 @@ Based on [electron-vite](https://github.com/electron-vite/vite-plugin-electron/t
 
 ## Overview
 
-⚡️ SolidJS + Vite + Electron
+⚡️ SolidJS + Vite + TypeScript + Electron
 
 📦 Ready out of the box
 
