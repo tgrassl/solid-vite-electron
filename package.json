@@ -1,0 +1,26 @@
+{
+  "name": "solid-vite-electron",
+  "version": "0.0.0",
+  "main": "dist-electron/main.js",
+  "description": "Solid.js + Vite + Electron template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgrassl/solid-vite-electron.git"
+  },
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build && electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^22.0.0",
+    "electron-builder": "^23.6.0",
+    "sass": "^1.57.1",
+    "solid-js": "^1.6.8",
+    "typescript": "^4.9.4",
+    "vite": "^4.0.3",
+    "vite-plugin-electron": "^0.11.1",
+    "vite-plugin-solid": "^2.5.0"
+  }
+}
