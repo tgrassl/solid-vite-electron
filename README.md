@@ -1,5 +1,7 @@
 # solid-vite-electron
 
+![result](./result.png)
+
 Inspired by: [ch99q](https://github.com/ch99q/vite-solid-electron)
 
 Based on [electron-vite](https://github.com/electron-vite/vite-plugin-electron/tree/main/examples/quick-start)
