@@ -2,7 +2,7 @@
 
 ![result](./result.png)
 
-Inspired by: [ch99q](https://github.com/ch99q/vite-solid-electron)
+Inspired by [ch99q](https://github.com/ch99q/vite-solid-electron)
 
 Based on [electron-vite](https://github.com/electron-vite/vite-plugin-electron/tree/main/examples/quick-start)
 
@@ -18,7 +18,7 @@ Based on [electron-vite](https://github.com/electron-vite/vite-plugin-electron/t
 
 ```bash
 # clone template without git history
-npx degit https://github.com/ch99q/vite-solid-electron.git <folder_name>
+npx degit https://github.com/tgrassl/solid-vite-electron <folder_name>
 
 # open the project directory
 cd <folder_name>
