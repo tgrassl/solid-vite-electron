@@ -12,7 +12,7 @@ Based on [electron-vite](https://github.com/electron-vite/vite-plugin-electron/t
 
 📦 Ready out of the box
 
-🔥 HMR
+🔥 Hot reloading
 
 ## Installation
 
